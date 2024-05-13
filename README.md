@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Idbrahim</h1>
-<h3>
+<p>
   I web developer Experienced in front-end developer with a strong background in building responsive and user-friendly web applications, utilizing modern technologies as well as backend technologies to create seamless, end-to-end solutions.
-</h3>
+</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=simosamaa&label=Profile%20views&color=0e75b6&style=flat" alt="simosamaa" /> </p>
 
