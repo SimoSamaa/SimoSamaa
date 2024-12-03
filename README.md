@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Idbrahim</h1>
-<p>
-  I web developer Experienced in front-end developer with a strong background in building responsive and user-friendly web applications, utilizing modern technologies as well as backend technologies to create seamless, end-to-end solutions.
+<p>I am a web developer with expertise in both front-end and back-end technologies. Experienced in building responsive, user-friendly web applications and creating seamless, end-to-end solutions using modern tools and frameworks. Passionate about delivering high-quality, scalable, and efficient web experiences.
 </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=simosamaa&label=Profile%20views&color=0e75b6&style=flat" alt="simosamaa" /> </p>
