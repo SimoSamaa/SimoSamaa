@@ -6,7 +6,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=simosamaa&label=Profile%20views&color=0e75b6&style=flat" alt="simosamaa" /> </p>
 
 
-- 💬 Ask me about **vue, express**
+- 💬 Ask me about **Vue, React, Express**
 
 - 📫 How to reach me **rayanidbrahim@gmail.com**
 
